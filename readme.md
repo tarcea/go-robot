@@ -35,7 +35,7 @@ Example:
 
 `Report: 1 3 N`
 
-## How to run the programm
+## How to run the application
 
 Clone the repo: `git clone https://github.com/tarcea/go-robot.git`
 
