@@ -37,7 +37,7 @@ Example:
 
 ## How to run the programm
 
-Clone the repo,
+Clone the repo: `git clone https://github.com/tarcea/go-robot.git`
 
 `cd go-robot`
 
