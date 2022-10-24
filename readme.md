@@ -56,7 +56,7 @@ How to run the tests:
 
 # GoRobot API version
 
-At the link below, you can find another version of the application using http requests to take inputs from the user and show the results.
+At the link below, you can find another version of the application using http requests to take inputs from the user and return the result as a JSON object.
 
 [https://github.com/tarcea/go-robot-api](https://github.com/tarcea/go-robot-api)
 
