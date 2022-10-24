@@ -43,9 +43,12 @@ Clone the repo,
 
 `go run main.go`
 
+The user provide all requested inputs and the result is displayed in the terminal.
+You can also run `go run build` and then start the resulted script.
+
 How to run the tests:
 
-`make test`
+`make test` or `go test`
 
 ## Tech stack
 
@@ -53,7 +56,7 @@ How to run the tests:
 
 # GoRobot API version
 
-At the link below, you can find another version of the application using http requests to show the results.
+At the link below, you can find another version of the application using http requests to take inputs from the user and show the results.
 
 [https://github.com/tarcea/go-robot-api](https://github.com/tarcea/go-robot-api)
 
