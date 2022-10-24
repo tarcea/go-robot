@@ -43,7 +43,7 @@ Clone the repo: `git clone https://github.com/tarcea/go-robot.git`
 
 `go run main.go`
 
-The user provide all requested inputs and the result is displayed in the terminal.
+The user provides all requested inputs and the result is displayed in the terminal.
 You can also run `go run build` and then start the resulted script.
 
 How to run the tests:
