@@ -47,10 +47,16 @@ How to run the tests:
 
 `make test`
 
-# GoRobot API version
-
-[https://github.com/tarcea/go-robot-api](https://github.com/tarcea/go-robot-api)
-
 ## Tech stack
 
 - Go
+
+# GoRobot API version
+
+At the link below, you can find another version of the application using http requests to show the results.
+
+[https://github.com/tarcea/go-robot-api](https://github.com/tarcea/go-robot-api)
+
+Online version example:
+
+[https://go-robot-api.up.railway.app/game?width=5&deep=5&orientation=N&x=1&y=2&command=RFRFFRFRF](https://go-robot-api.up.railway.app/game?width=5&deep=5&orientation=N&x=1&y=2&command=RFRFFRFRF)
